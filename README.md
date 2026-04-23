@@ -8,7 +8,7 @@
 [![Focus](https://img.shields.io/badge/Focus-Compliance%20Ops%20Automation-1F6FEB?style=for-the-badge)](#flagship-projects)
 [![Built by TNDS](https://img.shields.io/badge/Built%20by-TNDS-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
-<img src="logo.png" alt="Jacob Johnston Portfolio" width="260" />
+<img src="logo.jpg" alt="Jacob Johnston Portfolio" width="260" />
 
 </div>
 
