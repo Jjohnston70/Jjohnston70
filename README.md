@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jacob Johnston | CommandStack Portfolio
-### Operations + DevOps Systems Builder (Self-Taught)
+### Operations + DevOps Systems Builder
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jjohnston70-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jjohnston70)
 [![Primary Stack](https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20PowerShell-0A8EA0?style=for-the-badge)](#core-stack)
@@ -34,8 +34,7 @@ My path is operations-first and self-taught engineering second. The work below s
 Unified operations platform for DOT compliance workflows, GovCon support, and AI-assisted decision tooling.
 
 ### 2. [Fleet-Compliance Sentinel](https://github.com/Pipeline-Punks/00-FLEET-COMPLIANCE-SENTINEL)
-Production-grade fleet compliance SaaS with telematics, training, module gateway controls, and audit-first architecture.
-
+CommandStacks Testing Repo and Demo Website (https://www.pipelinepunks.com/) you will be required to enter an email in order to use the Demo
 ### 3. [FOB Command Center](https://github.com/Forward-Operating-Base/fob-command-center)
 Monorepo command center architecture spanning dashboard, module services, and governed agent layer for program operations.
 
