@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jacob Johnston | CommandStack Portfolio
+# Jacob Johnston | Northbound-AI Portfolio
 ### Operations + DevOps Systems Builder
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jjohnston70-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jjohnston70)
@@ -30,11 +30,12 @@ My path is operations-first and self-taught engineering second. The work below s
 
 ## Flagship Projects
 
-### 1. [CommandStack](https://github.com/Jjohnston70/commandstack)
-Unified operations platform for DOT compliance workflows, GovCon support, and AI-assisted decision tooling.
+### 1. [northbound-ai](https://github.com/Jjohnston70/northbound-ai)
+Controlling feeder repo and deployed Decision Engine base. Unified operations platform for DOT compliance workflows, governed decision pipelines, and AI-assisted operational tooling. Receives validated packages from northbound-depot via copy-only workflow. Client branding added at deploy time.
 
 ### 2. [Fleet-Compliance Sentinel](https://github.com/Pipeline-Punks/00-FLEET-COMPLIANCE-SENTINEL)
-CommandStacks Testing Repo and Demo Website (https://www.pipelinepunks.com/) you will be required to enter an email in order to use the Demo
+Production RAG-based 49 CFR compliance assistant and demo site (https://www.pipelinepunks.com/) — enter an email to access the demo.
+
 ### 3. [FOB Command Center](https://github.com/Forward-Operating-Base/fob-command-center)
 Monorepo command center architecture spanning dashboard, module services, and governed agent layer for program operations.
 
@@ -44,7 +45,7 @@ Tax-related repos/folders are intentionally excluded.
 
 | Repository | Link | Focus |
 |---|---|---|
-| commandstack | https://github.com/Jjohnston70/commandstack | Unified command platform for compliance and operations |
+| northbound-ai | https://github.com/Jjohnston70/northbound-ai | Controlling feeder repo and deployed Decision Engine base |
 | g-stack-asset-command | https://github.com/Jjohnston70/g-stack-asset-command | Asset operations command module |
 | g-stack-contract-command | https://github.com/Jjohnston70/g-stack-contract-command | Contract workflow command module |
 | g-stack-federal-command | https://github.com/Jjohnston70/g-stack-federal-command | Federal opportunity and repo operations command center |
