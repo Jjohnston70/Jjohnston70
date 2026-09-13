@@ -22,20 +22,17 @@
 
 <br />
 
-
-
+<div align="center">
+  
 ## Table of Contents
 
-- [Who I Am](#who-i-am)
-- [Three Fronts](#three-fronts)
-- [How I Build](#how-i-build)
-- [Systems](#systems)
-  - [Petroleum Operations](#petroleum-operations)
-  - [Compliance](#compliance)
-  - [Knowledge and Delivery](#knowledge-and-delivery)
-  - [Public Repositories](#public-repositories)
-- [Stack](#stack)
-- [Contact](#contact)
+| Overview | Systems and Tools |
+|:---|:---|
+| [01 — Who I Am](#who-i-am) | [04 — Systems](#systems) |
+| [02 — Three Fronts](#three-fronts) | ↳ [Petroleum Operations](#petroleum-operations) |
+| [03 — How I Build](#how-i-build) | ↳ [Compliance](#compliance) |
+| [05 — Stack](#stack) | ↳ [Knowledge and Delivery](#knowledge-and-delivery) |
+| [06 — Contact](#contact) | ↳ [Public Repositories](#public-repositories) |
 
 ## Who I Am
 
