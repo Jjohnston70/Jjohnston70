@@ -2,13 +2,8 @@
 
 <img src="logo.jpg" alt="Jacob Johnston" width="240" />
 
-<p align="center">
-  <strong><big><big>Jacob Johnston</big></big></strong>
-</p>
-
+<h1 align="center">Jacob Johnston</h1>
 <h3 align="center">Operator who builds. Petroleum operations first.</h3>
-
-<hr />
 
 
 <br /><br />
