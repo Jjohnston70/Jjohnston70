@@ -1,9 +1,14 @@
 <div align="center">
 
-<h1 align="center">Jacob Johnston</h1>  
+<img src="logo.jpg" alt="Jacob Johnston" width="240" />
+
+<p align="center">
+  <strong><big><big>Jacob Johnston</big></big></strong>
+</p>
+
 <h3 align="center">Operator who builds. Petroleum operations first.</h3>
 
-<img src="logo.jpg" alt="Jacob Johnston" width="240" />
+<hr />
 
 
 <br /><br />
@@ -15,11 +20,13 @@
 
 <br />
 
+
+
 <img src="true-north-logo-layered-v3.png" alt="True North Data Strategies" height="220" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="transparent%20skull.png" alt="We have operated under fire so you do not have to" height="220" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="PPD%20no%20badge.png" alt="Pipeline Punks" height="220" />
 </div>
 
 <br />
-<h1 align="center">Jacob Johnston</h1>
+
 
 
 ## Table of Contents
