@@ -14,7 +14,7 @@
 
 <br />
 
-<img src="true-north-logo-layered-v3.png" alt="True North Data Strategies" width="220" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="transparent%20skull.png" alt="We have operated under fire so you do not have to" width="300" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="PPD%20no%20badge.png" alt="Pipeline Punks" width="220" />
+<img src="true-north-logo-layered-v3.png" alt="True North Data Strategies" width="220" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="transparent%20skull.png" alt="We have operated under fire so you do not have to" width="320" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="PPD%20no%20badge.png" alt="Pipeline Punks" width="220" />
 </div>
 
 <br />
