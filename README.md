@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Jacob Johnston
@@ -9,7 +8,13 @@
 [![Focus](https://img.shields.io/badge/Focus-Petroleum%20Operations-1F6FEB?style=for-the-badge)](#systems)
 [![Built by TNDS](https://img.shields.io/badge/Built%20by-TNDS-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
-<img src="logo.jpg" alt="Jacob Johnston" width="240" />
+<br />
+
+<img src="true-north-logo-layered-v3_3.png" alt="True North Data Strategies" width="180" />
+
+<br /><br />
+
+<img src="favicon-512.png" alt="Pipeline Punks" width="220" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="logo.jpg" alt="Jacob Johnston" width="240" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="back_skull.png" alt="We have operated under fire so you do not have to" width="320" />
 
 </div>
 
