@@ -1,5 +1,10 @@
 <div align="center">
 
+<h1 align="center">Jacob Johnston</h1>  
+<h3 align="center">Operator who builds. Petroleum operations first.</h3>
+
+<img src="logo.jpg" alt="Jacob Johnston" width="240" />
+
 
 <br /><br />
 
@@ -15,10 +20,6 @@
 
 <br />
 <h1 align="center">Jacob Johnston</h1>
-<h3 align="center">Operator who builds. Petroleum operations first.</h3>
-
-<img src="logo.jpg" alt="Jacob Johnston" width="240" />
-
 
 
 ## Table of Contents
