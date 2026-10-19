@@ -38,7 +38,7 @@
 
 Founder of True North Data Strategies LLC (TNDS), a service-disabled veteran-owned fractional operations practice in Colorado Springs, Colorado. I embed with small and mid-sized operators, petroleum marketers and fuel haulers first, fix the operation, document the procedures, train the crew, cut the tool sprawl, and hand it back running.
 
-Before TNDS: eight years at a regional petroleum carrier, finishing as Transportation Department Head with full DOT and FMCSA ownership. The first systems in this portfolio were built there, on the night shift, because nobody else was going to. Before that, 20 years in the U.S. Army, Airborne Infantry.
+Before TNDS: eight years at a regional petroleum carrier, finishing as Transportation Department Head with full DOT and FMCSA ownership. That’s where I saw the same problems burn out people over and over, with nobody coming to fix them. TNDS is where I build those fixes. Before that, 20 years in the U.S. Army, Airborne Infantry.
 
 I am operations first and engineer second. Everything below exists because a dispatcher, a driver, a plant manager, or a bookkeeper had a problem that a spreadsheet and a script could remove.
 
